@@ -7,7 +7,7 @@
 
 <img src="assets/hero.svg" alt="PM by day. Builder by night." width="100%" />
 
-By day, a Product Manager building AI software at scale — currently Partner PM on Microsoft AI, formerly Google. By night and weekend, a builder who loves tinkering around these new superpowers that AI has given us.
+By day, a Product Manager building AI software at scale — currently Partner PM on Microsoft AI, formerly Google. By night and weekend, a builder who loves putzing around with these new superpowers that AI has given us.
 
 Prototypes are not as interesting as learning while shipping production ready software. [Sticky Wicket Labs](https://stickywicketlabs.com) is the playground: weekend builds, no year long roadmaps, no committee reviews.
 
