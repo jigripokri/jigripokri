@@ -1,9 +1,0 @@
-<svg viewBox="0 0 1280 120" width="100%" xmlns="http://www.w3.org/2000/svg"
-     font-family="'JetBrains Mono','SF Mono','Courier New',monospace" role="img"
-     aria-label="Stack: TypeScript, React, Next.js, Python, Tailwind, Vercel, LLM APIs">
-  <rect width="1280" height="120" fill="#0E1117"/>
-  <line x1="0" y1="1" x2="1280" y2="1" stroke="#1E2530" stroke-width="1"/>
-  <text x="92" y="72" font-size="22" letter-spacing="0">
-    <tspan fill="#F3EFE6">TypeScript</tspan><tspan fill="#C8962C">&#160;·&#160;</tspan><tspan fill="#F3EFE6">React</tspan><tspan fill="#C8962C">&#160;·&#160;</tspan><tspan fill="#F3EFE6">Next.js</tspan><tspan fill="#C8962C">&#160;·&#160;</tspan><tspan fill="#F3EFE6">Python</tspan><tspan fill="#C8962C">&#160;·&#160;</tspan><tspan fill="#F3EFE6">Tailwind</tspan><tspan fill="#C8962C">&#160;·&#160;</tspan><tspan fill="#F3EFE6">Vercel</tspan><tspan fill="#C8962C">&#160;·&#160;</tspan><tspan fill="#F3EFE6">LLM APIs</tspan>
-  </text>
-</svg>
