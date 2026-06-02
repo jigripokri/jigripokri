@@ -1,0 +1,17 @@
+<svg viewBox="0 0 1280 360" width="100%" xmlns="http://www.w3.org/2000/svg"
+     font-family="'JetBrains Mono','SF Mono','Courier New',monospace" role="img"
+     aria-label="Approach: five principles for building products">
+  <rect width="1280" height="360" fill="#0E1117"/>
+  <g stroke="#1E2530" stroke-width="1">
+    <line x1="320" y1="0" x2="320" y2="360"/>
+    <line x1="640" y1="0" x2="640" y2="360"/>
+    <line x1="960" y1="0" x2="960" y2="360"/>
+  </g>
+  <g font-size="22">
+    <text x="92" y="74"><tspan fill="#C8962C">&#8594;&#160;&#160;</tspan><tspan fill="#C9D1D9">Find a user need worth losing sleep over. Then obsess.</tspan></text>
+    <text x="92" y="132"><tspan fill="#C8962C">&#8594;&#160;&#160;</tspan><tspan fill="#C9D1D9">Ship the prototype. "Try it" beats "what if" every time.</tspan></text>
+    <text x="92" y="190"><tspan fill="#C8962C">&#8594;&#160;&#160;</tspan><tspan fill="#C9D1D9">Build it exactly the way it should work. No committee.</tspan></text>
+    <text x="92" y="248"><tspan fill="#C8962C">&#8594;&#160;&#160;</tspan><tspan fill="#C9D1D9">Learn in public. The best lessons break in interesting ways.</tspan></text>
+    <text x="92" y="306"><tspan fill="#C8962C">&#8594;&#160;&#160;</tspan><tspan fill="#C9D1D9">The point of making things is the people you meet doing it.</tspan></text>
+  </g>
+</svg>
