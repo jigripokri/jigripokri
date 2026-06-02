@@ -15,9 +15,9 @@ Prototypes are not as interesting as learning while shipping production ready so
 
 <img src="assets/band-building.svg" alt="Section: Building" width="100%" />
 
-| Project | What it does | Field |
+| Project | What it does | Type |
 |---|---|---|
-| [POHA](https://github.com/jigripokri/POHA) | Runs while you sleep, serves a morning brief before your alarm | 118 stars |
+| [POHA](https://github.com/jigripokri/POHA) | 118 stars. Runs while you sleep, serves a morning brief before your alarm | Agents |
 | [KidScribe](https://stickywicketlabs.com) | Personalized books starring your child as the hero | Storytelling |
 | [Ugly 2 CEO](https://stickywicketlabs.com) | Turns any photo into a polished, professional portrait | Imaging |
 | [Characto](https://stickywicketlabs.com) | Consistent characters across scenes | Creative tools |
