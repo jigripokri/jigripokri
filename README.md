@@ -7,9 +7,9 @@
 
 <img src="assets/hero.svg" alt="Saurabh Verma — PM by day, builder by night" width="100%" />
 
-By day, a Product Manager building AI software at scale — currently Partner PM on Microsoft AI (Copilot), formerly Google. By night and weekend, a builder who turns ideas into working tools.
+By day, a Product Manager building AI software at scale — currently Partner PM on Microsoft AI, formerly Google. By night and weekend, a builder who loves tinkering around these new superpowers that AI has given us.
 
-I code just enough to be dangerous — a PM who can ship a prototype, debug an API call, and break things in interesting ways. [Sticky Wicket Labs](https://stickywicketlabs.com) is the playground: weekend builds, no roadmaps, no committee reviews.
+Prototypes are not as interesting as learning while shipping production ready software. [Sticky Wicket Labs](https://stickywicketlabs.com) is the playground: weekend builds, no year long roadmaps, no committee reviews.
 
 > My most important user is four years old. He might only want bedtime stories for a few more years — so I build the tools that put him on the page, saving the day alongside the Hulk. That's a user need worth losing sleep over.
 
