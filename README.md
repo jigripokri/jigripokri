@@ -10,7 +10,7 @@
   <img src="assets/hero.svg" alt="PM by day. Builder by night." width="100%" />
 </picture>
 
-By day, a Product Manager building AI software at scale — currently Partner PM on Microsoft AI, formerly Google. By night and weekend, a builder who loves tinkering around these new superpowers that AI has given us.
+By day, a Product Manager building AI software at scale — currently Partner PM on Microsoft AI, formerly Google. By night and weekend, a builder who loves putzing around with these new superpowers that AI has given us.
 
 Prototypes are not as interesting as learning while shipping production ready software. [Sticky Wicket Labs](https://stickywicketlabs.com) is the playground: weekend builds, no year long roadmaps, no committee reviews.
 
@@ -21,9 +21,9 @@ Prototypes are not as interesting as learning while shipping production ready so
   <img src="assets/band-building.svg" alt="Section: Building" width="100%" />
 </picture>
 
-| Project | What it does | Field |
+| Project | What it does | Type |
 |---|---|---|
-| [POHA](https://github.com/jigripokri/POHA) | Runs while you sleep, serves a morning brief before your alarm | 118 stars |
+| [POHA](https://github.com/jigripokri/POHA) | 118 stars. Runs while you sleep, serves a morning brief before your alarm | Agents |
 | [KidScribe](https://stickywicketlabs.com) | Personalized books starring your child as the hero | Storytelling |
 | [Ugly 2 CEO](https://stickywicketlabs.com) | Turns any photo into a polished, professional portrait | Imaging |
 | [Characto](https://stickywicketlabs.com) | Consistent characters across scenes | Creative tools |
