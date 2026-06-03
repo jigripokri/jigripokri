@@ -1,0 +1,9 @@
+<svg viewBox="0 0 1280 90" width="100%" xmlns="http://www.w3.org/2000/svg"
+     font-family="Georgia, 'Times New Roman', serif" role="img" aria-label="Section: Elsewhere">
+  <rect width="1280" height="90" fill="#FFFFFF"/>
+  <line x1="0" y1="1" x2="1280" y2="1" stroke="#E6E0D4" stroke-width="1"/>
+  <rect x="0" y="40" width="11" height="11" fill="#A8741A"/>
+  <text x="34" y="56" fill="#16130D" font-size="26" letter-spacing="4">ELSEWHERE</text>
+  <text x="1280" y="55" fill="#CFC8BA"
+        font-family="'JetBrains Mono','SF Mono','Courier New',monospace" font-size="16" text-anchor="end">02</text>
+</svg>

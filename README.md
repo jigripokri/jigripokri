@@ -5,7 +5,10 @@
   no external services) so they render identically in light and dark themes.
 -->
 
-<img src="assets/hero.svg" alt="PM by day. Builder by night." width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg" />
+  <img src="assets/hero.svg" alt="PM by day. Builder by night." width="100%" />
+</picture>
 
 By day, a Product Manager building AI software at scale — currently Partner PM on Microsoft AI, formerly Google. By night and weekend, a builder who loves tinkering around these new superpowers that AI has given us.
 
@@ -13,7 +16,10 @@ Prototypes are not as interesting as learning while shipping production ready so
 
 > My most important user is four years old. He might only want bedtime stories for a few more years — so I build the tools that put him on the page, saving the day alongside the Hulk. That's a user need worth losing sleep over.
 
-<img src="assets/band-building.svg" alt="Section: Building" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/band-building-light.svg" />
+  <img src="assets/band-building.svg" alt="Section: Building" width="100%" />
+</picture>
 
 | Project | What it does | Field |
 |---|---|---|
@@ -27,7 +33,10 @@ Prototypes are not as interesting as learning while shipping production ready so
 
 *Also tinkering with exocortex — a second brain that remembers what matters.*
 
-<img src="assets/band-contact.svg" alt="Section: Elsewhere" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/band-contact-light.svg" />
+  <img src="assets/band-contact.svg" alt="Section: Elsewhere" width="100%" />
+</picture>
 
 [stickywicketlabs.com](https://stickywicketlabs.com) · [LinkedIn](https://www.linkedin.com/in/jigripokri/) · [Email](mailto:saurabh@stickywicketlabs.com)
 
